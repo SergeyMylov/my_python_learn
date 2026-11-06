@@ -1,5 +1,5 @@
 def main():
-    name: str = "Sergey"
+    name: str = "Sergey Mylov"
     print(f"Hello world!!! and {name}")
     
     
